@@ -1,0 +1,15 @@
+{
+  "name": "kk4-pak-aic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anjay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Mulai": "nodemon anjay.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
